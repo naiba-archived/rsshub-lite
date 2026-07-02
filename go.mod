@@ -1,6 +1,6 @@
 module github.com/naiba/rsshub-lite
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/DaRealFreak/cloudflare-bp-go v1.0.4
@@ -13,7 +13,7 @@ require (
 	github.com/samber/lo v1.37.0
 	github.com/samber/mo v1.7.0
 	github.com/tidwall/gjson v1.14.4
-	golang.org/x/sync v0.12.0
+	golang.org/x/sync v0.20.0
 )
 
 require (
@@ -33,7 +33,7 @@ require (
 	github.com/valyala/fasthttp v1.51.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 )
